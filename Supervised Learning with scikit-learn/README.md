@@ -14,6 +14,7 @@ tecnicas de visualização de performance para regressão e classificação.
 
 ## Instrutor:
 Nome: George Boorman
+
 Gerente de Currículo na DataCamp, possui um PGDip em Exercício para Saúde e Bacharelado em
 Ciências do Esporte. Possui experiência em gerenciamento de projetos nos setores de saúde pública,
 pesquisa aplicada e organizações sem fins lucrativos.
