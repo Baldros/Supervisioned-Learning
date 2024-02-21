@@ -11,10 +11,3 @@ você descobrirá como construir modelos preditivos, ajustar seus parâmetros e 
 4. Pré-processamento e Pipeline: Pré-processamento de dados, binarização de informação, táticas para lidar com dados faltantes,
 escalonamento para regressão, escalonamento para classificação, construção de pipelines, metrificação de multiplos modelos,
 tecnicas de visualização de performance para regressão e classificação.
-
-## Instrutor:
-Nome: George Boorman
-
-Gerente de Currículo na DataCamp, possui um PGDip em Exercício para Saúde e Bacharelado em
-Ciências do Esporte. Possui experiência em gerenciamento de projetos nos setores de saúde pública,
-pesquisa aplicada e organizações sem fins lucrativos.
