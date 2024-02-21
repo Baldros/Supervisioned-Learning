@@ -23,3 +23,5 @@ Boosting refere-se a um método de ensemble no qual vários modelos são treinad
 
 5. Tunagem de Modelos:
 Os hiperparâmetros de um modelo de aprendizado de máquina são parâmetros que não são aprendidos a partir dos dados. Eles devem ser definidos antes de ajustar o modelo ao conjunto de treinamento. Neste capítulo, você aprenderá como ajustar os hiperparâmetros de um modelo baseado em árvore usando pesquisa em grade e validação cruzada.
+
+Plataforma: Datacamp
