@@ -1,8 +1,8 @@
 # Apresentação:
-É comum subdividir a área de **Aprendizado de Máquina** em subáreas relacionadas a forma com a qual um
-modelo aprende. Neste diretório, o objetivo é acomodar todos conhecimentos (cursos no geral) voltados para o
-de **Aprendizado Supervisionado**. Cada curso será acomodado na sua respectiva pasta, com a sua respectiva
-descrição de modo que o diretório fique organizado e o conhecimento fique de fácil de se acesso.
+Seja bem vindo, a proposta desse diretório é acomodar todo conhecimento  acumulado (cursos no geral) sobre
+a área de **Machine Learning** dentro do escopo de **Aprendizado Supervisionado**. Cada curso será acomodado
+na pasta contendo seu nome, exatamente como está na plataforma do curso/certificado. Cada pasta tera a sua respectiva
+descrição de modo que o diretório fique organizado e o conhecimento fique de fácil de se acessar.
 
 ## Definição de Aprendizado Supervisionado:
 De modo resumido, o aprendizado supervisionado ocorre em situações que temos os labels conhecidos e possiveis
