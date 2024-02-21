@@ -11,3 +11,6 @@ você descobrirá como construir modelos preditivos, ajustar seus parâmetros e 
 4. Pré-processamento e Pipeline: Pré-processamento de dados, binarização de informação, táticas para lidar com dados faltantes,
 escalonamento para regressão, escalonamento para classificação, construção de pipelines, metrificação de multiplos modelos,
 tecnicas de visualização de performance para regressão e classificação.
+
+Plataforma: Datacamp
+https://www.datacamp.com/completed/statement-of-accomplishment/course/33a61249827702fbc41e6798ed54afac6ca5e8dd
